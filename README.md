@@ -1,4 +1,4 @@
-# Ultimate Privacy & Anonymity Guide
+# Privacy & Anonymity Guide
 
 > **Scope:** This repository documents best practices for achieving the highest practical level of digital privacy and anonymity using consumer hardware and open-source software.
 >
